@@ -1,0 +1,35 @@
+body {
+  background-color:#EAF6F6;
+}
+
+hr {
+  border: dotted grey;
+  border-style: none;;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  border-radius: 50%;
+  height: 50%;
+  border-style: outset;
+  border-color: cyan;
+  border-width: thick;
+}
+
+h1 {
+  color: #52575d;
+  /* font-family: monospace; */
+  font-style: italic;
+  letter-spacing: 2px;
+}
+h3{
+  color: #66BFBF;
+  font-style: italic;
+}
+
+a {
+  text-decoration: none;
+  font-style: italic;
+}
