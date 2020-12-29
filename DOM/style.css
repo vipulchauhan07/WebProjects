@@ -5,3 +5,7 @@ h1 {
 #list {
   font-style: italic;
 }
+
+.huge {
+  font-size: 10rem;
+}
